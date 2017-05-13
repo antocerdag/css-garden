@@ -112,3 +112,48 @@ h2 span {
     font-style: italic;
     text-align: center;
 }
+
+.design-selection ul li{
+	width: auto;
+    padding: 10px;
+    margin: 0;
+}
+
+.design-selection ul li a{
+	color: whitesmoke;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:18px;
+
+}
+.design-archives{
+	align-content: center;
+}
+.design-archives ul li{
+	width: auto;
+    padding: 10px;
+    margin: 0;
+}
+
+.design-archives ul li a{
+	color: whitesmoke;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:18px;
+
+}
+.zen-resources{
+	float: right;
+	margin-top:-518px;
+	margin-right: 20px;
+}
+.zen-resources ul li{
+	width: auto;
+    padding: 10px;
+    margin: 0;
+}
+
+.zen-resources ul li a{
+	color: whitesmoke;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:18px;
+
+}
