@@ -23,6 +23,8 @@ img{
     align-content: center;
 }
 
+
+
 h1{
 	position: absolute;
     top: 200px;
@@ -97,17 +99,16 @@ h2 span {
 .sidebar{
 	background-color: rgba(205,221,135,1);
 	padding: 10px;
+  padding-bottom:258px
 }
 .requirements p:last-child {
     width: auto;
-    padding: 1em 12%;
+    padding: 20px;
     margin: 0;
     color: #FFFFFF;
-    background-attachment: fixed, fixed, fixed, scroll;
+    
     background-image: url(jhon-french-400.jpg);
-    background-position: 0 0, -5px -25px, 0 0, 0 50%;
-    background-repeat: repeat, repeat, repeat, no-repeat;
-    background-size: auto, auto, auto, cover;
+    
     font-size: 25px;
     font-style: italic;
     text-align: center;
@@ -127,6 +128,8 @@ h2 span {
 }
 .design-archives{
 	align-content: center;
+      margin-top: -407px;
+    margin-left: 275px;
 }
 .design-archives ul li{
 	width: auto;
@@ -141,9 +144,9 @@ h2 span {
 
 }
 .zen-resources{
-	float: right;
-	margin-top:-518px;
-	margin-right: 20px;
+  float: right;
+  margin-top: -162px;
+  margin-right: 20px;
 }
 .zen-resources ul li{
 	width: auto;
@@ -156,4 +159,8 @@ h2 span {
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size:18px;
 
+}
+
+footer{
+  padding: 10px;
 }
